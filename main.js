@@ -54,5 +54,5 @@ function main() {
   //            Merah     Hijau   Biru    Transparansi
   gl.clear(gl.COLOR_BUFFER_BIT);
 
-  gl.drawArrays(gl.TRIANGLE_FAN, 0, 4);
+  gl.drawArrays(gl.TRIANGLE_FAN, 0, 4); 
 }
